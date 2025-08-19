@@ -1,62 +1,93 @@
 [[section]]
-name = "Programming Languages"
+name = "Software"
 
 [[section.skill]]
-name = "Python"
-icon = "devicon:python"
-icon_size = 72
+name = "Solidworks"
+icon = "simple-icons:dassaultsystemes"
 color = "#0000FF"
 
 [[section.skill]]
-name = "Rust"
-icon = "devicon:rust"
+name = "Fusin360"
+icon = "devicon:fusion"
+# color = "#FF0000"
+
+[[section.skill]]
+name = "AutoCAD"
+icon = "simple-icons:autocad"
 color = "#FF0000"
 
 [[section.skill]]
-name = "Java"
-icon = "devicon:java"
+name = "Matlab"
+icon = "vscode-icons:file-type-matlab"
+color = "#FF0000"
 
 [[section.skill]]
-name = "C++"
-icon = "devicon:cplusplus"
-color = "#0000FF"
+name = "Excel"
+icon = "vscode-icons:file-type-excel"
+color = "#017d1aff"
 
 [[section.skill]]
-name = "Elixir"
-icon = "devicon:elixir"
-color = "#B43BFF"
-
-[[section.skill]]
-name = "Gleam"
-icon = "devicon:gleam"
-color = "#FFAFF3"
-
+name = "Word"
+icon = "ph:microsoft-word-logo"
+color = "#0055ffff"
 
 [[section]]
-name = "Frameworks"
+name = "SoftSkills"
 
 [[section.skill]]
-name = "Svelte"
-icon = "devicon:svelte"
-color = "#FF7330"
-
-[[section.skill]]
-name = "React"
-icon = "devicon:react"
+name = "Communication"
+icon = "icon-park-outline:communication"
 color = "#5CDDFF"
 
+[[section.skill]]
+name = "Teamwork"
+icon = "fluent-color:people-team-16"
+color = "#5CDDFF"
+
+[[section.skill]]
+name = "Leadership"
+icon = "material-symbols:leaderboard"
+color = "#cf6b1fff"
+
+[[section.skill]]
+name = "Problem Solving"
+icon = "ix:leading-axis-proxy"
+color = "#b2c900ff"
+
+[[section.skill]]
+name = "Adaptability"
+icon = "tabler:exchange"
+color = "#ff00bbff"
+
+[[section.skill]]
+name = "Creativity"
+icon = "mdi:lightbulb-on"
+color = "#d5ce00ff"
 
 [[section]]
 name = "Tools"
 
 [[section.skill]]
-name = "Fusion"
-icon = "devicon:fusion"
+name = "Laser Cutter"
+icon = "fluent:laser-tool-20-filled"
+color = "#ff0022ff"
 
 [[section.skill]]
-name = "Blender"
-icon = "devicon:blender"
+name = "3D Printer"
+icon = "mdi:printer-3d-nozzle-heat"
+color = "#ff0022ff"
 
 [[section.skill]]
-name = "Git"
-icon = "devicon:git"
+name = "Waterjet"
+icon = "material-symbols:water-ec"
+color = "#0091ffff"
+
+[[section.skill]]
+name = "Metal Fabrication"
+icon = "icon-park-outline:heavy-metal"
+color = "#919292ff"
+
+[[section.skill]]
+name = "Wood Fabrication"
+icon = "noto:wood"
+color = "#f28572ff"
