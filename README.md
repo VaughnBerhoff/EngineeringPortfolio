@@ -79,6 +79,12 @@ Change your name or description with:
 name="John Doe"
 description="This is my portfolio."
 ```
+Set a profile photo with:
+```toml
+photo="profile.png"
+```
+Just place the image that you want to use in the `static` folder and then set `photo` to the name of the image and it will find it.
+
 Add as many or as little contact methods as you want by adding or removing a `[[contact]]` section that looks like this:
 ```toml
 [[contact]]

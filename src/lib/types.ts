@@ -36,6 +36,7 @@ const ContactSchema = z.object({
 export const HomeConfigSchema = z.object({
 	name: z.string(),
 	description: z.string(),
+	photo: z.string(),
 	contact: z.array(ContactSchema)
 });
 export type HomeConfig = z.infer<typeof HomeConfigSchema>;

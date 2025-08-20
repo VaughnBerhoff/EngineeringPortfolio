@@ -6,11 +6,11 @@
 </script>
 
 <div class="flex flex-grow items-center justify-center">
-	<div class="flex max-w-5xl sm:flex-row flex-col space-y-4 space-x-4 p-4 mx-4 items-start">
+	<div class="mx-4 flex max-w-5xl flex-col items-start space-y-4 space-x-4 p-4 sm:flex-row">
 		<div class="sm:max-w-1/2">
-			<img src="profile.png" alt="Profile" class="rounded-md" />
+			<img src={data.photo} alt="Profile" class="rounded-md" />
 		</div>
-		<div class="flex sm:max-w-1/2 flex-col space-y-4">
+		<div class="flex flex-col space-y-4 sm:max-w-1/2">
 			<div class="text-5xl">{data.name}</div>
 			<div class="text-lg text-wrap">{data.description}</div>
 			<div class="flex flex-row flex-wrap gap-2">

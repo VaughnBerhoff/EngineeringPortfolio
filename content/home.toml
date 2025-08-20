@@ -1,5 +1,6 @@
 name="John Doe"
 description="This is my portfolio. Here is a little bit about me. Take a look at the other pages for more info."
+photo="profile.png"
 
 [[contact]]
 name = "GitHub"
