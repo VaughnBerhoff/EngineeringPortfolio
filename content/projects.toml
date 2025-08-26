@@ -5,63 +5,122 @@ total_cols = 6
 # bg_color="#FFF"
 # border_color="#FF0000"
 # shadow_color="#FF0000"
-[[project.grid_item]]
-rows = 2
-cols = 2
-type = "text"
-content = "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas."
+
 [[project.grid_item]]
 rows = 1
 cols = 2
 type = "title"
-content="Project Title"
-[[project.grid_item]]
-rows = 2
-cols = 2
-type = "image"
-content = "profile.png"
+content = "Bone Yard"
+
 [[project.grid_item]]
 rows = 1
-cols = 1
-type = "image"
-content = "profile.png"
-[[project.grid_item]]
-rows = 1
-cols = 1
-type = "text"
-content = "Lorem ipsum"
-[[project.grid_item]]
-rows = 4
-cols = 3
-type = "model"
-content = "bucket_punch.glb"
-bg_color= "#000"
-text_color= "#fff"
-[[project.grid_item]]
-rows = 2
 cols = 2
 type = "text"
-content = "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos. Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor."
+content="For more detail watch this awesome video:"
+
+[[project.grid_item]]
+rows = 3
+cols = 2
+type = "text"
+content="Bone Yard Vid"
+
 [[project.grid_item]]
 rows = 2
 cols = 1
-type = "image"
-content = "profile.png"
+type = "text"
+content = "flippers"
+
 [[project.grid_item]]
 rows = 2
-cols = 3
+cols = 1
 type = "text"
-content = "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos. Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor."
+content = "image"
+
+[[project.grid_item]]
+rows = 2
+cols = 1
+type = "text"
+content = "coin"
+
+[[project.grid_item]]
+rows = 2
+cols = 1
+type = "text"
+content = "image"
+
+[[project.grid_item]]
+rows = 3
+cols = 1
+type = "image"
+content = "PinballFinished.png"
+
+[[project.grid_item]]
+rows = 3
+cols = 1
+type = "image"
+content = "PinballStart.png"
+
+[[project.grid_item]]
+rows = 3
+cols = 1
+type = "image"
+content = "PathSketch.png"
+
+[[project.grid_item]]
+rows = 3
+cols = 1
+type = "image"
+content = "PinballFinished.png"
+
+[[project.grid_item]]
+rows = 3
+cols = 2
+type = "text"
+content = "About"
+
+
+
 
 [[project]]
-type = "large"
-total_rows = 1
-total_cols = 1
+type = "small"
+total_rows = 6
+total_cols = 6
 # bg_color="#FFF"
 # border_color="#FF0000"
 # shadow_color="#FF0000"
+
 [[project.grid_item]]
 rows = 1
-cols = 1
+cols = 2
+type = "title"
+content = "Casino Watch"
+
+[[project.grid_item]]
+rows = 3
+cols = 2
+type = "text"
+content = "Inspired by my love of cards, this watch combines a simplistic look with a unique twist. The hour hand is a fan of cards that rotate so the top card always represents the hour and the minute hand rotates around the roulette colored face."
+
+[[project.grid_item]]
+rows = 6
+cols = 2
+type = "image"
+content = "Watch.png"
+
+[[project.grid_item]]
+rows = 5
+cols = 2
 type = "model"
-content = "bucket_punch.glb"
+content = "exploded_view_watch.glb"
+
+[[project.grid_item]]
+rows = 3
+cols = 1
+type = "text"
+content = "Inspired 3D printed retainers, face, and hand"
+
+[[project.grid_item]]
+rows = 3
+cols = 1
+type = "image"
+content = "OpenWatch.png"
