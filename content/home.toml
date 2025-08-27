@@ -1,26 +1,14 @@
-name="John Doe"
+name="Vaughn Berhoff"
 description="This is my portfolio. Here is a little bit about me. Take a look at the other pages for more info."
-photo="profile.png"
-
-[[contact]]
-name = "GitHub"
-link = "https://github.com/"
-icon = "devicon:github"
-# color = "#000000"
+photo="VaughnPicture.jpeg"
 
 [[contact]]
 name = "LinkedIn"
-link = "https://linkedin.com/"
+link = "https://www.linkedin.com/in/vaughn-berhoff?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnUxzs41GT8mOvzHl%2FMrsug%3D%3D"
 icon = "devicon:linkedin"
 
 [[contact]]
-name = "Twitter"
-link = "https://twitter.com/"
-icon = "devicon:twitter"
-# color = "#1da1f2"
-
-[[contact]]
 name = "Email"
-link = "mailto:example@example.com"
+link = "mailto:vberhoff@gatech.edu"
 icon = "material-symbols:alternate-email"
 # color = "#000000"
