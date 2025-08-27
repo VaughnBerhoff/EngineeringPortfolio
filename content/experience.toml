@@ -1,7 +1,60 @@
 [[experience]]
-company = "Company Name"
-position = "Position Held"
-timeline = "Aug. 2024 - Sep. 2025"
+company = "Shurhold.Ind"
+position = "Factory Intern"
+timeline = "May. 2025 - Aug. 2025"
+
+[[experience.project]]
+type = "large"
+total_rows = 6
+total_cols = 6
+
+[[experience.project.grid_item]]
+rows = 1
+cols = 2
+type = "title"
+content="Bucket Punch"
+[[experience.project.grid_item]]
+rows = 2
+cols = 2
+type = "text"
+content = "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas."
+[[experience.project.grid_item]]
+rows = 2
+cols = 2
+type = "image"
+content = "profile.png"
+[[experience.project.grid_item]]
+rows = 1
+cols = 1
+type = "image"
+content = "profile.png"
+[[experience.project.grid_item]]
+rows = 1
+cols = 1
+type = "text"
+content = "Lorem ipsum"
+[[experience.project.grid_item]]
+rows = 4
+cols = 3
+type = "model"
+content = "bucket_punch.glb"
+bg_color= "#fff"
+[[experience.project.grid_item]]
+rows = 2
+cols = 2
+type = "text"
+content = "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos. Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor."
+[[experience.project.grid_item]]
+rows = 2
+cols = 1
+type = "image"
+content = "profile.png"
+[[experience.project.grid_item]]
+rows = 2
+cols = 3
+type = "text"
+content = "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos. Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor."
+
 
 [[experience.project]]
 type = "large"
@@ -15,6 +68,16 @@ rows = 2
 cols = 2
 type = "text"
 content = "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas."
+[[experience.project.grid_item]]
+rows = 2
+cols = 1
+type = "video"
+content="https://www.youtube.com/watch?v=njX2bu-_Vw4"
+
+[[experience.project]]
+type = "large"
+total_rows = 6
+total_cols = 6
 [[experience.project.grid_item]]
 rows = 1
 cols = 2
@@ -78,56 +141,5 @@ content = "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque fauci
 [[experience.project.grid_item]]
 rows = 2
 cols = 1
-type = "video"
-content="https://www.youtube.com/watch?v=njX2bu-_Vw4"
-
-[[experience.project]]
-type = "large"
-total_rows = 6
-total_cols = 6
-[[experience.project.grid_item]]
-rows = 1
-cols = 2
-type = "title"
-content="Project Title"
-[[experience.project.grid_item]]
-rows = 2
-cols = 2
-type = "text"
-content = "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas."
-[[experience.project.grid_item]]
-rows = 2
-cols = 2
-type = "image"
-content = "profile.png"
-[[experience.project.grid_item]]
-rows = 1
-cols = 1
-type = "image"
-content = "profile.png"
-[[experience.project.grid_item]]
-rows = 1
-cols = 1
-type = "text"
-content = "Lorem ipsum"
-[[experience.project.grid_item]]
-rows = 4
-cols = 3
 type = "model"
-content = "bucket_punch.glb"
-bg_color= "#fff"
-[[experience.project.grid_item]]
-rows = 2
-cols = 2
-type = "text"
-content = "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos. Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor."
-[[experience.project.grid_item]]
-rows = 2
-cols = 1
-type = "image"
-content = "profile.png"
-[[experience.project.grid_item]]
-rows = 2
-cols = 3
-type = "text"
-content = "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos. Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor."
+content="bucket_punch.glb"
