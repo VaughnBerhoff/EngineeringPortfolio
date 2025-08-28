@@ -13,9 +13,29 @@
 		<img src={content} alt={content} class="object-contain" />
 	</div>
 {:else if type == 'model'}
-	<div class="flex w-full aspect-square md:aspect-auto">
+	<div class="flex aspect-square w-full md:aspect-auto">
 		<ModelViewer modelUrl={content} />
 	</div>
+{:else if type == 'video'}
+	{@const videoId = (() => {
+		const regexes = [
+			/(?:youtube\.com\/watch\?v=|youtu\.be\/|youtube\.com\/embed\/)([^&\n?#]+)/,
+			/youtube\.com\/watch\?.*v=([^&\n?#]+)/
+		];
+		for (const regex of regexes) {
+			const match = content.match(regex);
+			if (match) return match[1];
+		}
+		return content;
+	})()}
+	<iframe
+		class="h-full w-full border-0"
+		src="https://www.youtube.com/embed/{videoId}"
+		title="YouTube video player"
+		frameborder=0
+		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+		allowfullscreen
+	></iframe>
 {:else}
 	<div>Invalid Content Type</div>
 {/if}

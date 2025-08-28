@@ -131,5 +131,5 @@ content = "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque fauci
 [[experience.project.grid_item]]
 rows = 2
 cols = 1
-type = "model"
-content="bucket_punch.glb"
+type = "video"
+content="https://www.youtube.com/watch?v=njX2bu-_Vw4"

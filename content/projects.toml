@@ -21,8 +21,8 @@ content="For more detail watch this awesome video:"
 [[project.grid_item]]
 rows = 3
 cols = 2
-type = "text"
-content="Bone Yard Vid"
+type = "video"
+content = "https://www.youtube.com/watch?v=njX2bu-_Vw4"
 
 [[project.grid_item]]
 rows = 2
