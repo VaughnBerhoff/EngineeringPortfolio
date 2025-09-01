@@ -12,49 +12,113 @@ total_cols = 6
 rows = 1
 cols = 2
 type = "title"
-content="Bucket Punch"
-[[experience.project.grid_item]]
-rows = 2
-cols = 2
-type = "text"
-content = "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas."
-[[experience.project.grid_item]]
-rows = 2
-cols = 2
-type = "image"
-content = "profile.png"
-[[experience.project.grid_item]]
-rows = 1
-cols = 1
-type = "image"
-content = "profile.png"
-[[experience.project.grid_item]]
-rows = 1
-cols = 1
-type = "text"
-content = "Lorem ipsum"
+content="Bucket Hole Punch"
+
 [[experience.project.grid_item]]
 rows = 4
-cols = 3
+cols = 4
 type = "model"
-content = "bucket_punch.glb"
-bg_color= "#fff"
+content="bucket_punch.glb"
+
 [[experience.project.grid_item]]
 rows = 2
 cols = 2
 type = "text"
-content = "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos. Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor."
-[[experience.project.grid_item]]
-rows = 2
-cols = 1
-type = "image"
-content = "profile.png"
-[[experience.project.grid_item]]
-rows = 2
-cols = 3
-type = "text"
-content = "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos. Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor."
+content="Reverse-engineered the Shurhold bucket punch machine. Drafted up-to-date documentation, parts list, CAD models, and engineering drawings. These are now available to replace broken components as needed"
 
+[[experience.project.grid_item]]
+rows = 3
+cols = 2
+type = "image"
+content="BP1.png"
+
+[[experience.project.grid_item]]
+rows = 2
+cols = 2
+type = "text"
+content="Text"
+
+[[experience.project.grid_item]]
+rows = 2
+cols = 2
+type = "image"
+content="BP2.png"
+
+[[experience.project]]
+type = "large"
+total_rows = 6
+total_cols = 6
+
+[[experience.project.grid_item]]
+rows = 1
+cols = 2
+type = "title"
+content="Brush Bumper Installation"
+
+[[experience.project.grid_item]]
+rows = 2
+cols = 2
+type = "text"
+content="Nicknamed Steve by the factory crew. This dual-piston bumper installer streamlined the assembly of rubber bumpers onto multiple brush models. Designed to stretch and snap the band on fresh brushes. Replaced an outdated system and decreased assembly time by 25%"
+
+[[experience.project.grid_item]]
+rows = 2
+cols = 2
+type = "image"
+content="BB2.png"
+
+[[experience.project.grid_item]]
+rows = 5
+cols = 2
+type = "image"
+content="BB1.png"
+
+[[experience.project.grid_item]]
+rows = 4
+cols = 4
+type = "text"
+content="modle"
+
+[[experience.project]]
+type = "small"
+total_rows = 6
+total_cols = 6
+
+[[experience.project.grid_item]]
+rows = 1
+cols = 2
+type = "title"
+content="Office Layout"
+
+[[experience.project.grid_item]]
+rows = 2
+cols = 4
+type = "text"
+content="Worked alongside architects and construction workers to draft a layout for the addition of two new offices. Optimized for ease of access and staff communication. Primarily utilized AutoCAD"
+
+[[experience.project.grid_item]]
+rows = 5
+cols = 2
+type = "image"
+content="OF1.png"
+
+[[experience.project.grid_item]]
+rows = 4
+cols = 2
+type = "image"
+content="OF2.jpg"
+
+[[experience.project.grid_item]]
+rows = 4
+cols = 2
+type = "image"
+content="OF3.jpg"
+
+
+[[experience]]
+company = "Lineage Biomedical"
+position = "Position Held*"
+timeline = "May. 2024 - July. 2024"
 
 [[experience.project]]
 type = "large"
@@ -63,73 +127,95 @@ total_cols = 6
 # bg_color="#FFF"
 # border_color="#FF0000"
 # shadow_color="#FF0000"
-[[experience.project.grid_item]]
-rows = 2
-cols = 2
-type = "text"
-content = "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas."
+
 [[experience.project.grid_item]]
 rows = 1
 cols = 2
 type = "title"
-content="Project Title"
-[[experience.project.grid_item]]
-rows = 2
-cols = 2
-type = "image"
-content = "profile.png"
-[[experience.project.grid_item]]
-rows = 1
-cols = 1
-type = "image"
-content = "profile.png"
-[[experience.project.grid_item]]
-rows = 1
-cols = 1
-type = "text"
-content = "Lorem ipsum"
-text_color="#fff"
-[[experience.project.grid_item]]
-rows = 4
-cols = 3
-type = "model"
-content = "bucket_punch.glb"
-text_color="#fff"
-bg_color= "#000"
-[[experience.project.grid_item]]
-rows = 2
-cols = 2
-type = "text"
-content = "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos. Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor."
-[[experience.project.grid_item]]
-rows = 2
-cols = 1
-type = "image"
-content = "profile.png"
-[[experience.project.grid_item]]
-rows = 2
-cols = 3
-type = "text"
-content = "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos. Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor."
+content="Nava-Click"
 
+[[experience.project.grid_item]]
+rows = 2
+cols = 2
+type = "image"
+content="LB4.png"
+
+[[experience.project.grid_item]]
+rows = 2
+cols = 2
+type = "image"
+content="LB1.png"
+
+[[experience.project.grid_item]]
+rows = 3
+cols = 2
+type = "image"
+content="NovaClick.pdf"
+
+[[experience.project.grid_item]]
+rows = 2
+cols = 2
+type = "text"
+content="Process: Observed a product to redesign in CAD Fusion 360. Critical decisions to maximize functionality & realism while minimizing manufacturing difficulty. Communicate with the company for an optimal outcome"
+
+[[experience.project.grid_item]]
+rows = 2
+cols = 2
+type = "image"
+content="LB2.png"
+
+[[experience.project.grid_item]]
+rows = 2
+cols = 2
+type = "text"
+content="Working for Lineage Biomedical, I redesigned their existing product in CAD to produce a 10x scaled model to show at trade shows. During the design process, I considered several factors, including transportation, manufacturing costs, and durability. I also contributed my experience in 3D printing to aid in manufacturing."
+
+[[experience.project.grid_item]]
+rows = 2
+cols = 2
+type = "text"
+content="Materials: 3D-printed PLA, TPU, & other Wood. The right three pictures demonstrate different viewing layers of the sarringe mechanism"
+
+[[experience.project.grid_item]]
+rows = 2
+cols = 2
+type = "image"
+content="LB3.png"
 
 
 [[experience]]
-company = "Company Name"
-position = "Position Held"
-timeline = "Aug. 2024 - Sep. 2025"
+company = "Bikes Plus"
+position = "Bike Mechanic"
+timeline = "November. 2020 - October. 2023"
 
 [[experience.project]]
 type = "small"
-total_rows = 2
-total_cols = 2
+total_rows = 6
+total_cols = 6
+# bg_color="#FFF"
+# border_color="#FF0000"
+# shadow_color="#FF0000"
+
 [[experience.project.grid_item]]
-rows = 2
-cols = 1
+rows = 1
+cols = 2
+type = "title"
+content="Bike Mechanic"
+
+[[experience.project.grid_item]]
+rows = 6
+cols = 2
+type = "image"
+content="Bike1.png"
+
+[[experience.project.grid_item]]
+rows = 6
+cols = 2
+type = "image"
+content="Bike2.png"
+
+[[experience.project.grid_item]]
+rows = 5
+cols = 2
 type = "text"
-content = "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas."
-[[experience.project.grid_item]]
-rows = 2
-cols = 1
-type = "video"
-content="https://www.youtube.com/watch?v=njX2bu-_Vw4"
+content="about"

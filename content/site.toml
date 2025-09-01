@@ -3,7 +3,7 @@ icon="material-symbols:web-sharp"
 
 [navigation.profile]
 enabled=true
-name="John Doe"
+name="Vaughn Berhoff"
 icon="devicon:bash"
 
 [navigation.projects]
