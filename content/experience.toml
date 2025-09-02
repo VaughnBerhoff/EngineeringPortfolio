@@ -7,6 +7,9 @@ timeline = "May. 2025 - Aug. 2025"
 type = "large"
 total_rows = 6
 total_cols = 6
+# bg_color="#FF0000"
+# border_color="#FF0000"
+# shadow_color="#FF0000"
 
 [[experience.project.grid_item]]
 rows = 1
@@ -15,10 +18,16 @@ type = "title"
 content="Bucket Hole Punch"
 
 [[experience.project.grid_item]]
-rows = 4
-cols = 4
-type = "model"
-content="bucket_punch.glb"
+rows = 2
+cols = 2
+type = "image"
+content="BP1.png"
+
+[[experience.project.grid_item]]
+rows = 2
+cols = 2
+type = "image"
+content="BP2.png"
 
 [[experience.project.grid_item]]
 rows = 2
@@ -27,22 +36,18 @@ type = "text"
 content="Reverse-engineered the Shurhold bucket punch machine. Drafted up-to-date documentation, parts list, CAD models, and engineering drawings. These are now available to replace broken components as needed"
 
 [[experience.project.grid_item]]
+rows = 4
+cols = 4
+type = "model"
+content="bucket_punch.glb"
+
+[[experience.project.grid_item]]
 rows = 3
 cols = 2
 type = "image"
-content="BP1.png"
+content="BPlive.jpeg"
 
-[[experience.project.grid_item]]
-rows = 2
-cols = 2
-type = "text"
-content="Text"
 
-[[experience.project.grid_item]]
-rows = 2
-cols = 2
-type = "image"
-content="BP2.png"
 
 [[experience.project]]
 type = "large"
@@ -76,8 +81,8 @@ content="BB1.png"
 [[experience.project.grid_item]]
 rows = 4
 cols = 4
-type = "text"
-content="modle"
+type = "model"
+content="brushassembaly.glb"
 
 [[experience.project]]
 type = "small"
@@ -218,4 +223,4 @@ content="Bike2.png"
 rows = 5
 cols = 2
 type = "text"
-content="about"
+content="Working at Bikes plus I gained skills as a mechanic learning the ins and outs of bike functionality. One of my favorite projects was frame swapping a Canyon Neuron CF8. Process: disassembled and stripped all components off the old frame including suspension, derailer, brakes, handlebars, and wheels. Cleaned up and fixed old parts assembling them back onto the new frame. Truing the new bike to the customer's attributes."
