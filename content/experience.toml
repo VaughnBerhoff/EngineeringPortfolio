@@ -7,8 +7,8 @@ timeline = "May. 2025 - Aug. 2025"
 type = "large"
 total_rows = 6
 total_cols = 6
-bg_color="#FFF"
-border_color="#FF0000"
+bg_color="#ffc5c5ff"
+border_color="#ffc5c5ff"
 shadow_color="#FF0000"
 
 [[experience.project.grid_item]]
@@ -53,8 +53,8 @@ content="BPlive.jpeg"
 type = "large"
 total_rows = 6
 total_cols = 6
-bg_color="#FFF"
-border_color="#FF0000"
+bg_color="#ffc5c5ff"
+border_color="#ffc5c5ff"
 shadow_color="#FF0000"
 
 [[experience.project.grid_item]]
@@ -91,8 +91,8 @@ content="brushassembaly.glb"
 type = "small"
 total_rows = 6
 total_cols = 6
-bg_color="#FFF"
-border_color="#FF0000"
+bg_color="#ffc5c5ff"
+border_color="#ffc5c5ff"
 shadow_color="#FF0000"
 
 [[experience.project.grid_item]]
@@ -135,8 +135,8 @@ timeline = "May. 2024 - July. 2024"
 type = "large"
 total_rows = 6
 total_cols = 6
-bg_color="#FFF"
-border_color="#00b3ffff"
+bg_color="#ecf6ffff"
+border_color="#ecf6ffff"
 shadow_color="#00b3ffff"
 
 [[experience.project.grid_item]]
@@ -203,8 +203,8 @@ timeline = "November. 2020 - October. 2023"
 type = "small"
 total_rows = 6
 total_cols = 6
-bg_color="#FFF"
-border_color="#00d13fff"
+bg_color="#d3ffe0ff"
+border_color="#d3ffe0ff"
 shadow_color="#00d13fff"
 
 [[experience.project.grid_item]]
