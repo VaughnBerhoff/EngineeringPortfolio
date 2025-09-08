@@ -52,13 +52,13 @@ content = "4) Decorated the pinball machine in a Halloween theme. Featuring one 
 rows = 3
 cols = 1
 type = "image"
-content = "PinballFinished.png"
+content = "PinballStart.png"
 
 [[project.grid_item]]
 rows = 3
 cols = 1
 type = "image"
-content = "PinballStart.png"
+content = "PinballBoard.png"
 
 [[project.grid_item]]
 rows = 3
