@@ -155,7 +155,7 @@ content="LB1.png"
 rows = 3
 cols = 2
 type = "image"
-content="NovaClick.pdf"
+content="NovaClick.png"
 
 [[experience.project.grid_item]]
 rows = 2
