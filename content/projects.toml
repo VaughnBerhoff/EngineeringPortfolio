@@ -2,9 +2,9 @@
 type = "large"
 total_rows = 6
 total_cols = 6
-# bg_color="#FFF"
-# border_color="#FF0000"
-# shadow_color="#FF0000"
+bg_color="#819bb5ff"
+border_color="#819bb5ff"
+shadow_color="#FF0000"
 
 [[project.grid_item]]
 rows = 1
@@ -85,9 +85,9 @@ content = "Halloween-themed pinball machine named Bone Yard. Self-designed featu
 type = "small"
 total_rows = 6
 total_cols = 6
-# bg_color="#FFF"
-# border_color="#FF0000"
-# shadow_color="#FF0000"
+bg_color="#3e2b3aff"
+Border_color="#3e2b3aff"
+shadow_color="#FF0000"
 
 [[project.grid_item]]
 rows = 1
