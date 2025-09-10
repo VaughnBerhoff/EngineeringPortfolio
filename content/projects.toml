@@ -28,13 +28,13 @@ content = "https://youtu.be/2SjGUhyXE9I"
 rows = 2
 cols = 1
 type = "text"
-content = "1) Started on paper, exploring different obstacle designs and configurations"
+content = "1) Using paper and pencil, I sketched different obstacle designs and configurations"
 
 [[project.grid_item]]
 rows = 2
 cols = 1
 type = "text"
-content = "2) Built the base frame and flipper system, leaving a beautiful playboard canvas to build off of"
+content = "2) Built the base frame and flipper system, leaving a beautiful playboard canvas to build upon"
 
 [[project.grid_item]]
 rows = 2
@@ -46,7 +46,7 @@ content = "3) Continued to make modifications around space constraints and avail
 rows = 2
 cols = 1
 type = "text"
-content = "4) Decorated the pinball machine in a Halloween theme. Featuring one main skeleton posing as an antagonist in your pinball adventures."
+content = "4) Decorated the pinball machine in a Halloween theme. Featuring one main skeleton posing as an antagonist in your pinball adventures"
 
 [[project.grid_item]]
 rows = 3
@@ -76,7 +76,7 @@ content = "PinballFinished.png"
 rows = 3
 cols = 2
 type = "text"
-content = "Halloween-themed pinball machine named Bone Yard. Self-designed featuring 3 functioning flippers, a coin intake, a bonus ball, and over 14 obstacles. Medium: Cardboard, Coat hangers, plastic scraps, 3D parts, rubber bands, Popstical sticks, Halloween decoration"
+content = "Halloween-themed pinball machine named Bone Yard. Self-designed featuring 3 functioning flippers, a coin intake, a bonus ball, and over 14 obstacles. Medium: cardboard, coat hangers, plastic scraps, 3D parts, rubber bands, popstical sticks, and halloween decoration"
 
 
 
@@ -117,7 +117,7 @@ content = "watchassembaly10x.glb"
 rows = 3
 cols = 1
 type = "text"
-content = "3D printed retainers, face, and hand"
+content = "Medium:  Plastic watch base, 3D printed retainers, face, and hand, glass/plastic cover"
 
 [[project.grid_item]]
 rows = 3
