@@ -122,7 +122,7 @@ content="Project Title"
 Simply determine how many `rows` and `cols` on the grid you want the item to take up. You can add as many items as you want. The system will auto place items starting from left to right then top to bottom. Also, set an **optional** background or text color.
 
 #### Grid Item Content
-Every `grid_item` will always have a `content` section but how this acts changes based on the `type`. The different types are title, text, image, video, or model. 
+Every `grid_item` will always have a `content` section but how this acts changes based on the `type`. The different types are title, text, image, pdf, video, or model. 
 
 `title` makes the `content` text large like a title. Example usage: 
 ```toml
@@ -147,6 +147,14 @@ rows = 1
 cols = 1
 type = "image"
 content = "image_name.jpg"
+```
+`pdf` looks for a pdf file in the `static` folder with the `content` name and embeds it. *Don't forget to put the pdf you want to use in the `static` folder.* Example usage:
+```toml
+[[project.grid_item]]
+rows = 4
+cols = 3
+type = "pdf"
+content = "sample_resume.pdf"
 ```
 `video` will use a YouTube video link in `content` to embed the video in the website. It supports all different YouTube link formats or you can even just use the video ID. Example usage:
 ```toml

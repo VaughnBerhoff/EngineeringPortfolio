@@ -4,6 +4,8 @@
 	import type { GLTF as GLTFType } from 'three/examples/jsm/loaders/GLTFLoader.js';
 	import { AnimationMixer, Clock, Box3, Vector3 } from 'three';
 	import { onMount, onDestroy } from 'svelte';
+	import MaterialSymbolsPlayCircleOutline from '~icons/material-symbols/play-circle-outline';
+	import MaterialSymbolsAndroidCameraOutline from '~icons/material-symbols/android-camera-outline';
 
 	// Component props
 	interface Props {
@@ -397,7 +399,7 @@
 				onclick={toggleExplode}
 				disabled={isAnimating}
 			>
-				🔧
+				<MaterialSymbolsPlayCircleOutline class="w-full h-full p-2"/>
 			</button>
 			<!-- Refit Camera Button -->
 			<button
@@ -418,7 +420,7 @@
 				onclick={refitCamera}
 				disabled={isCameraAnimating}
 			>
-				📷
+				<MaterialSymbolsAndroidCameraOutline class="w-full h-full p-2" />
 			</button>
 		</div>
 
