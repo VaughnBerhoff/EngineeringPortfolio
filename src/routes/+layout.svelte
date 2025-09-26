@@ -7,5 +7,5 @@
 
 <div class="flex w-screen h-screen flex-col overflow-x-hidden">
 	<NavBar {data} />
-	<div class="mt-15 flex flex-1">{@render children()}</div>
+	<div class="mt-15 flex flex-1 pb-12 sm:p-0">{@render children()}</div>
 </div>
