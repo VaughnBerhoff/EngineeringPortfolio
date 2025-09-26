@@ -4,7 +4,7 @@ icon="material-symbols:web-sharp"
 [navigation.profile]
 enabled=true
 name="Vaughn Berhoff"
-icon="devicon:bash"
+icon="material-symbols:article-person-outline"
 
 [navigation.projects]
 enabled=true
