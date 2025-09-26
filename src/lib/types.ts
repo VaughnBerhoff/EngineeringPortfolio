@@ -62,7 +62,7 @@ export const SkillsConfigSchema = z.object({
 export type SkillsConfig = z.infer<typeof SkillsConfigSchema>;
 
 const ProjectTypeSchema = z.enum(['large', 'small']);
-const ContentTypeSchema = z.enum(['title', 'text', 'image', 'model', 'video']);
+const ContentTypeSchema = z.enum(['title', 'text', 'image', 'model', 'video', 'pdf']);
 const ProjectCellContentSchema = z.object({
 	rows: z.number().min(1).max(10),
 	cols: z.number().min(1).max(10),
