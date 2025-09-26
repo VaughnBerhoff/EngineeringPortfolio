@@ -1,5 +1,5 @@
 name="Vaughn Berhoff"
-description="Hello! My name is Vaughn Berhoff, and I am a Mechanical Engineering student at the Georgia Institute of Technology, also pursuing a minor in Industrial Design. I am passionate about applying engineering skills to projects that bring people joy. This passion has guided me to become a Prototyping Instructor at Georgia Tech’s Invention Studio, where I gain hands-on experience with fabrication techniques and rapid prototyping methods. Outside the classroom, I’m an adrenaline junkie and nature enthusiast. As a whitewater kayaking instructor, I work with my team to guide participants down challenging rivers, teaching both technical skills and the joy of the sport. This experience not only fuels my love of adventure but also strengthens my abilities in leadership, teamwork, and problem-solving—skills I carry into my engineering work daily."
+description="Hello! My name is Vaughn Berhoff, and I am a Mechanical Engineering student at the Georgia Institute of Technology, also pursuing a minor in Industrial Design. I am passionate about applying engineering skills to projects that bring people joy. This passion has guided me to become a Prototyping Instructor at Georgia Tech’s Invention Studio, where I gain hands-on experience with fabrication techniques and rapid prototyping methods. \n\nOutside the classroom, I’m an adrenaline junkie and nature enthusiast. As a whitewater kayaking instructor, I work with my team to guide participants down challenging rivers, teaching both technical skills and the joy of the sport. This experience not only fuels my love of adventure but also strengthens my abilities in leadership, teamwork, and problem-solving—skills I carry into my engineering work daily."
 photo="VaughnPicture.jpeg"
 
 [[contact]]
@@ -10,5 +10,5 @@ icon = "devicon:linkedin"
 [[contact]]
 name = "Email"
 link = "mailto:vberhoff@gatech.edu"
-icon = "material-symbols:alternate-email"
+icon = "material-symbols:mail"
 # color = "#000000"

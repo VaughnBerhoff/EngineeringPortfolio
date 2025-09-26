@@ -223,7 +223,7 @@ content="Bike1.jpg"
 rows = 6
 cols = 2
 type = "image"
-content="Bike2.jpeg"
+content="Bike2.jpg"
 
 [[experience.project.grid_item]]
 rows = 5

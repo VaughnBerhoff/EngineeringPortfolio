@@ -9,7 +9,7 @@ icon="material-symbols:article-person-outline"
 [navigation.projects]
 enabled=true
 name="Projects"
-icon="material-symbols:folder-code-outline"
+icon="streamline-ultimate:pencil-sketch"
 
 [navigation.experience]
 enabled=true
