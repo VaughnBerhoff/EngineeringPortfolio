@@ -91,3 +91,8 @@ color = "#919292ff"
 name = "Wood Fabrication"
 icon = "noto:wood"
 color = "#f28572ff"
+
+[[section.skill]]
+name = "Electronics"
+icon = "streamline-ultimate:electronics-led-light-bold"
+color = "#d5ce00ff"

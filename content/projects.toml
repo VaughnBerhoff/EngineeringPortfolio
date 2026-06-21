@@ -79,8 +79,6 @@ type = "text"
 content = "Halloween-themed pinball machine named Bone Yard. Self-designed featuring 3 functioning flippers, a coin intake, a bonus ball, and over 14 obstacles. Medium: cardboard, coat hangers, plastic scraps, 3D parts, rubber bands, popstical sticks, and halloween decoration"
 
 
-
-
 [[project]]
 type = "small"
 total_rows = 6

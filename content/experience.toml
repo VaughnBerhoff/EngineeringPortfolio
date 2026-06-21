@@ -1,7 +1,99 @@
 [[experience]]
+company = "Milwaukee Tools"
+position = "Advanced Manufacturing Design Intern"
+timeline = "May. 2026 - Present"
+
+[[experience.project]]
+type = "small"
+total_rows = 1
+total_cols = 2
+bg_color="#be1515ff"
+border_color="#be1515ff"
+shadow_color="#FF0000"
+
+[[experience.project.grid_item]]
+rows = 1
+cols = 1
+type = "image"
+content="milwaukee_logo.jpeg"
+
+[[experience.project.grid_item]]
+rows = 1
+cols = 1
+type = "title"
+content="In Progress..."
+
+[[experience]]
 company = "Shurhold.Ind"
 position = "Factory Intern"
 timeline = "May. 2025 - Aug. 2025"
+
+[[experience.project]]
+type = "large"
+total_rows = 6
+total_cols = 6
+bg_color="#c86e6eff"
+border_color="#c86e6eff"
+shadow_color="#FF0000"
+
+[[experience.project.grid_item]]
+rows = 1
+cols = 2
+type = "title"
+content="Adjustable Mounting Table"
+
+[[experience.project.grid_item]]
+rows = 6
+cols = 4
+type = "model"
+content="XY_TableMove.glb"
+
+[[experience.project.grid_item]]
+rows = 2
+cols = 2
+type = "text"
+content="In the brush machining process, an industrial ink printer applies the logo to the brush blocks. Different brush models require unique alignments. Designed with two linear actuators, this new mounting table can reposition the 200lb printer to preset coordinates on both the X- and Y-axes. The setup efficiency and repeatability were improved by 60%"
+
+
+[[experience.project.grid_item]]
+rows = 3
+cols = 2
+type = "image"
+content="Table.png"
+
+
+[[experience.project]]
+type = "large"
+total_rows = 6
+total_cols = 6
+bg_color="#c86e6eff"
+border_color="#c86e6eff"
+shadow_color="#FF0000"
+
+[[experience.project.grid_item]]
+rows = 1
+cols = 2
+type = "title"
+content="Water Sprite Mop Splitter"
+
+[[experience.project.grid_item]]
+rows = 6
+cols = 4
+type = "model"
+content="MopSlitterCut2.glb"
+
+[[experience.project.grid_item]]
+rows = 2
+cols = 2
+type = "text"
+content="Automated the water sprite mop cutting process. Before I joined the team, they were using a rollerblade alignment that required a high level of force to operate. Now, employees of all levels of strength can operate; production is increased by 66% by being able to cut 3 mops at once, and the cuts are more consistent compared to human errors."
+
+[[experience.project.grid_item]]
+rows = 3
+cols = 2
+type = "image"
+content="Mop.png"
+
 
 [[experience.project]]
 type = "large"

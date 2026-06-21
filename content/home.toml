@@ -10,5 +10,5 @@ icon = "devicon:linkedin"
 [[contact]]
 name = "Email"
 link = "mailto:vberhoff@gatech.edu"
-icon = "material-symbols:mail"
+icon = "material-symbols-light:stacked-email-rounded"
 # color = "#000000"
