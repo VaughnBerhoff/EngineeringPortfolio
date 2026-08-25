@@ -96,3 +96,8 @@ color = "#f28572ff"
 name = "Electronics"
 icon = "streamline-ultimate:electronics-led-light-bold"
 color = "#d5ce00ff"
+
+[[section.skill]]
+name = "CNC"
+icon = "carbon:3d-cursor-alt"
+color = "#919292ff"

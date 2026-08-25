@@ -80,6 +80,57 @@ content = "Halloween-themed pinball machine named Bone Yard. Self-designed featu
 
 
 [[project]]
+type = "large"
+total_rows = 6
+total_cols = 6
+bg_color="#b5818cff"
+border_color="#b5818cff"
+shadow_color="#b5818cff"
+
+[[project.grid_item]]
+rows = 1
+cols = 2
+type = "title"
+content = "Cloudjumber"
+
+[[project.grid_item]]
+rows = 1
+cols = 2
+type = "text"
+content="For more detail watch this awesome video:"
+
+[[project.grid_item]]
+rows = 3
+cols = 2
+type = "video"
+content = "VACV14ON9QE"
+
+[[project.grid_item]]
+rows = 3
+cols = 2
+type = "text"
+content = "PROJECT DISCRIPTION: Final Design Project challenged teams to develop an autonomous machine for a 40-second, head-to-head competition themed around How to Train Your Dragon. The machine could score points by completing four primary tasks: extinguishing a fire, collecting and sorting fish and eels, returning sheep to designated paddocks, and moving torches to light a bonfire, all while meeting strict size, energy, cost, and operational constraints."
+
+[[project.grid_item]]
+rows = 3
+cols = 2
+type = "image"
+content = "ME2110Group.png"
+
+[[project.grid_item]]
+rows = 3
+cols = 2
+type = "pdf"
+content = "ME 2110 - A10 - Team 5 - Final Project Report.pdf"
+
+[[project.grid_item]]
+rows = 2
+cols = 4
+type = "text"
+content = "TEAM APPROACH: Our team prioritized reliable, repeatable mechanisms capable of scoring across all five tasks. The final robot integrated a drivetrain, telescoping boom, scissor arms, sheep deployment, and fish/eel sorting system into a compact autonomous platform. Through iterative prototyping and testing, the robot achieved the 3rd-highest average score of 156 points per run among 70 teams."
+
+
+[[project]]
 type = "small"
 total_rows = 6
 total_cols = 6

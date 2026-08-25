@@ -1,7 +1,7 @@
 [[experience]]
 company = "Milwaukee Tools"
 position = "Advanced Manufacturing Design Intern"
-timeline = "May. 2026 - Present"
+timeline = "May. 2026 - August. 2026"
 
 [[experience.project]]
 type = "small"
@@ -15,13 +15,13 @@ shadow_color="#FF0000"
 rows = 1
 cols = 1
 type = "image"
-content="milwaukee_logo.jpeg"
+content="IMG_4569.JPG"
 
 [[experience.project.grid_item]]
 rows = 1
 cols = 1
-type = "title"
-content="In Progress..."
+type = "text"
+content="During my internship at Milwaukee Tool, I developed a proof-of-concept machine to improve the Big Hawg hole saw manufacturing process at the request of the NPD team. The primary challenge was reliably locating and orienting complex geometric components for assembly. I developed a custom pick-and-place system to automate this process, iterating through mechanism designs and testing to improve speed and repeatability. The final concept INCREASING MANUFACTURING THROUGHPUT BY 80% compared to manual assembly.\n\n I also adapted vibratory feeder-bowl technology for a new product assembly line, expanding my experience with high-volume part feeding, orientation, and manufacturing automation."
 
 [[experience]]
 company = "Shurhold.Ind"
