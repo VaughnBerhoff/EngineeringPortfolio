@@ -1,4 +1,37 @@
 [[project]]
+type = "small"
+total_rows = 3
+total_cols = 6
+bg_color="#d2d772"
+border_color="#d2d772"
+shadow_color="#d2d772"
+
+[[project.grid_item]]
+rows = 1
+cols = 6
+type = "title"
+content = "Bio-Inspired Bike (Coming Soon!)"
+
+[[project.grid_item]]
+rows = 2
+cols = 2
+type = "text"
+content = "Studying how cats land, we are redefining what a mountain bike rear suspension system can be, based on one of nature's most skilled acrobats. This involves understanding the structures, functions, and mechanisms that allow cats to absorb impacts from falls over 7 times their height! Currently in the process of transferring these principles into the bike industry."
+
+[[project.grid_item]]
+rows = 2
+cols = 2
+type = "image"
+content = "CatLanding.png"
+
+[[project.grid_item]]
+rows = 2
+cols = 2
+type = "image"
+content = "8barLinkGIF.gif"
+
+
+[[project]]
 type = "large"
 total_rows = 6
 total_cols = 6
